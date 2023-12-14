@@ -1,3 +1,2 @@
 import './index.css';
-
-console.log('Parcel is Working!');
+import './js/navigation';
