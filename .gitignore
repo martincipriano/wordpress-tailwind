@@ -3,5 +3,8 @@
 .parcel-cache
 node_modules
 
+dist
+dist/*
+
 wp-config-sample.php
 wp-config.php
